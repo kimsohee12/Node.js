@@ -8,7 +8,7 @@
   "version": "1.0.0",
   "main": "app.js",
   "bin": {
-    "login-lecture": "bin/www.js"
+    "login-lecture": "www.js"
   },
   "scripts": {
     "start": "nodemon ./bin/www.js",
