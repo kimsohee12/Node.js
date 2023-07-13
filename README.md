@@ -1,2 +1,2 @@
 # Node.js
-node 개인공부
+node.js 개인공부
